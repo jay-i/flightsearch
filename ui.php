@@ -160,7 +160,7 @@ $new_listed = list_element($all_flight_array['body']);
 
 
 
-<link rel="stylesheet" href="css/bootstrap.css">
+<link rel="stylesheet" href="bootstrap.css">
 
 <div class="container">
 	<h1 class="text-center">Flight Search</h1>
